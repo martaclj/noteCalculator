@@ -17,3 +17,5 @@ console.log(notaFinal(datos.bien1, datos.mal1, datos.bien2, datos.mal2));
 
 let parrafo = document.getElementById('resultado');
 parrafo.innerHTML = notaFinal(datos.bien1, datos.mal1, datos.bien2, datos.mal2);
+
+//aprobar 48 aprox.
